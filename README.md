@@ -32,11 +32,11 @@ The following is a tentative timeline for the project:
 
 - **Library Management:** Users can easily organize and manage their music library with React Musicolet. They can create playlists, add songs to favorites, and browse through their collection using intuitive navigation and search functionalities.
 
-* **Offline Playback:** Similar to its Android counterpart, React Musicolet provides the ability to download and play music offline. Users can select specific songs or entire playlists for offline listening, ensuring uninterrupted enjoyment even without an active internet connection.
+- **Offline Playback:** Similar to its Android counterpart, React Musicolet provides the ability to download and play music offline. Users can select specific songs or entire playlists for offline listening, ensuring uninterrupted enjoyment even without an active internet connection.
 
-* **Customization Options:** The application allows users to personalize their music playback experience. They can customize the app's appearance, select from various themes, adjust equalizer settings, and even assign custom actions to gestures for intuitive controls.
+- **Customization Options:** The application allows users to personalize their music playback experience. They can customize the app's appearance, select from various themes, adjust equalizer settings, and even assign custom actions to gestures for intuitive controls.
 
-* **Cross-Platform Compatibility:** React Musicolet is designed to work seamlessly across different platforms, including desktop and mobile devices, ensuring that users can access their music library from anywhere. The responsive design ensures an optimal experience on screens of all sizes.
+- **Cross-Platform Compatibility:** React Musicolet is designed to work seamlessly across different platforms, including desktop and mobile devices, ensuring that users can access their music library from anywhere. The responsive design ensures an optimal experience on screens of all sizes.
 
 ## Future Enhancements
 
@@ -53,6 +53,7 @@ The following is a tentative timeline for the project:
 The following resources will be required for the project:
 
 - **React:** The core library for building user interfaces in React.
+- **React Query:** A library for fetching and caching data from APIs. It will be useful for optimizing data fetching.
 - **Zustand:** A state management library to handle application data flow, instead of Redux.
 - **React Router:** A library for routing and navigation within your React application.
 - **React Player:** A React component for playing audio files, essential for music playback functionality.
